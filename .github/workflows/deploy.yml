@@ -1,0 +1,2 @@
+uses: docker/metadata-action@v5
+labels: ${{ steps.meta.outputs.labels }}
